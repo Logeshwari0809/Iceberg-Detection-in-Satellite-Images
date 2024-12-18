@@ -22,7 +22,7 @@ HTML, CSS, Javascript (for frontend)
 
 # Dataset
 
-The project uses the Iceberg Detection dataset available on Kaggle. The dataset contains satellite images labeled as icebergs or ships, and it is used to train the CNN model.
+The project uses the Iceberg Detection dataset available on Kaggle. The dataset contains satellite images labeled as icebergs or ships, and it is used to train the CNN model. - [dataset](https://drive.google.com/file/d/1thPYaghyYeaxIwkmcAwiA4R3eYEKfJ-k/view?usp=sharing)
 
 # Approach
 
